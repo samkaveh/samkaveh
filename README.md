@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about software development, machine
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sam-kaveh)
-- [Personal Website](https://hessikaveh.github.io/personal-webpage/)
+- [Personal Website](https://samkaveh.github.io/personal-webpage/)
 
 
 ## 💻 Projects
